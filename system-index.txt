@@ -1,0 +1,1 @@
+semistatic.asd
